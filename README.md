@@ -4,8 +4,8 @@
 ## Table of Contents
 - Tools
 - [Datasets](#datasets)
-- [Papers](#Research Papers)
-- [Blogs / Slides / Researchers](#Researchers)
+- [Papers](#papers)
+- [Blogs / Slides / Researchers](#blogs-slides-researchers)
 - Journals / Conferences / Institutes / Events
 - Online Communities
 
@@ -25,6 +25,9 @@
 - [Overview of Myanmar-English Machine Translation System - NiCT](https://www.nict.go.jp/en/asean_ivo/4otfsk000029wocm-att/Khin_Mar_Soe.pdf)
 - [Syllable based speech recognition system for Myanmar Language](http://airccse.org/journal/ijcseit/papers/5215ijcseit01.pdf)
 - [Myanmar POS Tagging Using Hidden Markov](http://www.wseas.us/e-library/conferences/2009/vouliagmeni2/CIT/CIT-21.pdf)
+- [Myanmar Phrase Translation Model With Morphological Analysis for Statistical Myanmar to English Translation System](http://www.aclweb.org/anthology/Y11-1014)
+- [Ambiguous Myanmar Word Disambiguation for Myanmar-English Machine Translation](http://www.ucsy.edu.mm/ucsy/publications/nlp/2011_a_2.pdf)
+- [Syntactic Analysis of Myanmar Language](http://ucsy.edu.mm/ucsy/publications/nlp/2011_t_1.pdf)
 
 ## Blogs / Slides / Researchers
 - [Dr. Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp)
